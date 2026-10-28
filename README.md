@@ -150,4 +150,4 @@ Dockerfile       API serving image
 - Monitor for drift: fraud patterns change quickly once fraudsters adapt.
 
 ---
-Built by **Yator Sheldon**, Bachelor of Artificial Intelligence student at Deakin University.
+Built by **Sheldon Kiprono**, Bachelor of Artificial Intelligence student at Deakin University.

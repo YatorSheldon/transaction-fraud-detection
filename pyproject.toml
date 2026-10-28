@@ -2,7 +2,7 @@
 name = "fraudguard"
 version = "0.1.0"
 description = "Card transaction fraud detection: behavioural features, cost-aware thresholds and a real-time API."
-authors = [{ name = "Yator Sheldon" }]
+authors = [{ name = "Sheldon Kiprono" }]
 requires-python = ">=3.10"
 readme = "README.md"
 license = { text = "MIT" }
